@@ -1,7 +1,7 @@
 # Filter Remover for The Murder Of Sonic The Hedgehog
 
 Have you ever wanted to name you character on The Murder of Sonic The Hedgehog someone that appears in the game?
-Have you ever wanted to make Sonic and his friends curse?
+Have you ever wanted to make Sonic and his friends swear?
 **Now you can!**
 
 ## Installation
