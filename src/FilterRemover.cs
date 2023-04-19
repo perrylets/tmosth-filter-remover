@@ -8,7 +8,7 @@ namespace Perry.FilterRemover
 
     public override void OnInitializeMelon()
     {
-      MelonLogger.Msg("FilterRemover sucessfully loaded");
+      MelonLogger.Msg("Now you can name your character whatever you want");
     }
 
   }
