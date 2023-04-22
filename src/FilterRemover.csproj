@@ -42,8 +42,8 @@
       <HintPath>References\System.Core.dll</HintPath>
       <Private>false</Private>
     </Reference>
-    <Reference Include="System.Drawing">
-      <HintPath>References\System.Drawing.dll</HintPath>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>References\Unity.TextMeshPro.dll</HintPath>
       <Private>false</Private>
     </Reference>
   </ItemGroup>
