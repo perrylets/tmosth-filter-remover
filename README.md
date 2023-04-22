@@ -9,4 +9,6 @@ Have you ever wanted to make Sonic and his friends swear?
 1. [Install MelonLoader](https://melonwiki.xyz/#/?id=requirements) for the game
 1. Download the DLL from the [Releases](https://github.com/perrylets/tmosth-filter-remover/releases) page
 1. Move it to the `Mods` folder
+1. Open the game Properties on Steam
+1. Add '--melonloader.basedir "./The Murder of Sonic The Hedgehog"' to the `launch options`
 1. **PLAY THE GAME!**
